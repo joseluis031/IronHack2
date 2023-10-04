@@ -47,4 +47,11 @@ body {
     height: 50px;
     background-color: #0e100f;
 }
-  
+
+
+* {
+    color: yellow;
+} 
+#cover_box {
+    color: green;
+}
