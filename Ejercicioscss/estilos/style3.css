@@ -1,0 +1,32 @@
+/* Set the background color of the body tag to #00D1AE */
+body {
+    background-color: #00D1AE;
+}
+
+/* Style the div with the class "menu" */
+.menu {
+    width: 400px;
+    height: 50px;
+    background-color: #e0e9e8;
+}
+
+/* Style the div with the class "content" */
+.content {
+    width: 400px;
+    height: 200px;
+    background-color: red;
+}
+
+/* Style the second div to look like a menu */
+.menu-like {
+    width: 400px;
+    height: 50px;
+    background-color: #00D1AE;
+}
+
+/* Style the second div to look like content */
+.content-like {
+    width: 400px;
+    height: 200px;
+    background-color: red;
+}
